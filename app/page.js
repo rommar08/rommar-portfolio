@@ -5,7 +5,7 @@ import { motion, useInView, useMotionValue, useSpring } from "framer-motion";
 /* ---------- content & assets (edit here) ---------- */
 const SPOTIFY = "https://open.spotify.com/playlist/6HrWwuC0oni3Nfs6o9Nj8s?si=3m_3Wd1ATAq9UBg9s-q-iw";
 const EMAIL = "rommarsamonte08@gmail.com";
-const WEB3KEY = process.env.NEXT_PUBLIC_WEB3FORMS_KEY || "";
+const WEB3KEY = process.env.NEXT_PUBLIC_WEB3FORMS_KEY || "d7d9380b-13c5-4334-aa0e-18b4667702b1";
 const pfpSrc = "/images/pfp.png"; // replace with your own background-removed PNG
 const svpiLogo = "/images/svpi-logo.jpg";
 const froilanLogo = "/images/froilan-logo.jpg";
